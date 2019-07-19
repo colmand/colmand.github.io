@@ -4,7 +4,7 @@ I used the [editor on GitHub](https://github.com/colmand/colmand.github.io/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Here is another [page of content](https://github.com/colmand/colmand.github.io/_posts/content-1)
+Here is another [page of content](https://colmand.github.io/_posts/content-1) 
 
 ### Markdown
 
