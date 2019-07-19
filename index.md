@@ -1,10 +1,10 @@
-## Welcome to My GitHub Pages
+## Welcome to My GitHub Page
 
-I used the [editor on GitHub](https://github.com/colmand/colmand.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I used the [editor on GitHub](https://github.com/colmand/colmand.github.io/edit/master/index.md) to maintain and preview the content for this website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
-Here is another [page of content](https://colmand.github.io/_posts/content-1) 
+Here is another [page of content](https://colmand.github.io/content-1.html) to try and test out linking.
 
 ### Markdown
 
@@ -27,13 +27,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colmand/colmand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
