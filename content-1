@@ -1,7 +1,11 @@
-#Content
-
-This is a file with content.
-
-##More Content
-
-This is a heading two - **more** content!
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Content</title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+    <para>text goes here</para>
+  </body>
+</html>
